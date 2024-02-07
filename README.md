@@ -3,7 +3,7 @@
 ## Introduction
 This Gait Recognition System leverages the power of computer vision and deep learning to track and analyze human movements by setting anchor points on the joints of the body. Implemented using Python, OpenCV, and TensorFlow, the system inputs raw RGB video frames of a pedestrian and outputs a unique gait descriptor as an identification vector. This project makes use of the HumanPose Estimator dataset for training and validation.
 
-![Alt text](/Results/Screenshot(37).png)
+![Alt text](/Results/Screenshot (37).png)
 
 ## Architecture Overview
 The system architecture comprises two main sub-networks connected in cascade: HumanPoseNN and GaitNN.
